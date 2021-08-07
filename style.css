@@ -1,0 +1,91 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1496661415325-ef852f9e8e7c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1598&q=80);
+    background-size: cover;
+    color: mediumseagreen;
+    text-shadow: 2px 1px black;
+    font-weight: 1000px;
+    text-align: center;
+}
+
+li {
+    font-size: 25px;
+    margin: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+i {
+    color: lightblue;
+    font-size: 30px;
+}
+
+h1 {
+    color: black;
+    text-shadow: 2px 2px mediumseagreen;
+    font-size: 60px;
+}
+
+
+#one {
+    font-family: 'Indie Flower', cursive;
+
+
+}
+
+#two {
+    font-family: 'Dancing Script', cursive;
+
+
+}
+
+#three {
+    font-family: 'Nanum Gothic Coding', monospace;
+
+
+}
+
+#four {
+    font-family: 'Nova Mono', monospace;
+
+
+}
+
+#five {
+    font-family: 'Palette Mosaic', cursive;
+
+
+}
+
+#six {
+    font-family: 'Arima Madurai', cursive;
+
+
+}
+
+#seven {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+
+
+}
+
+#eight {
+    font-family: 'Abel', sans-serif;
+
+
+}
+
+#nine {
+    font-family: 'Josefin Slab', serif;
+    font-weight: 700;
+
+
+}
+
+#ten {
+    font-family: 'Ultra', serif;
+
+
+}
